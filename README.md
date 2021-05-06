@@ -3,7 +3,7 @@
 -Student at Computer Science & Engineering
 - 🌱 I’m currently learning - front end development
 - 🔭 I’m currently working on - react.js
-- - 😄 Pronouns my name: Rākibula isalāma
+- 😄 Pronouns my name: Rākibula isalāma
 
 <!--
 **rakibshakib/rakibshakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
