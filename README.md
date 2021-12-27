@@ -1,13 +1,13 @@
-### Hi there 👋 I'm Rakibul Islam 
-
+## Hi there 👋 I'm Rakibul Islam 
 -Programmer, SEO Expert, Video Editor, Content Editor, Self-Learner. 
 -Student at Computer Science & Engineering
 - 🌱 I’m currently learning - front end development
 - 🔭 I’m currently working on - react.js
+- 🌍 From Dhaka, Bangladesh
 - 😄 Pronouns my name: Rākibula isalāma 
 
 -Portfolio 
-## https://rakibshakib.netlify.app  
+### https://rakibshakib.netlify.app  
 
 <!--
 **rakibshakib/rakibshakib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
