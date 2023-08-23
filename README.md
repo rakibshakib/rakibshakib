@@ -2,7 +2,7 @@
 -Front-End Software Developer || JavaScript - React.js || Tech Enthusiast
 -Student at Computer Science & Engineering
 - 🌱 I’m currently learning - Front end development
-- 🔭 I’m currently working on - React.js, Node.js, Next.js
+- 🔭 I’m currently working on - Javascript (React.js, Next.js), TypeScript, Node.js
 - 🌍 From Dhaka, Bangladesh
 - 😄 Pronouns my name: Rākibula isalāma 
 
