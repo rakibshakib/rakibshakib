@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Rakibul Islam 
--Programmer, SEO Expert, Video Editor, Content Editor, Self-Learner. 
+-Front-End Software Developer || JavaScript - React.js || Tech Enthusiast
 -Student at Computer Science & Engineering
-- 🌱 I’m currently learning - front end development
-- 🔭 I’m currently working on - react.js
+- 🌱 I’m currently learning - Front end development
+- 🔭 I’m currently working on - React.js, Node.js, Next.js
 - 🌍 From Dhaka, Bangladesh
 - 😄 Pronouns my name: Rākibula isalāma 
 
