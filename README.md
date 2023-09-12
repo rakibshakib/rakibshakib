@@ -1,8 +1,11 @@
 ## Hi there 👋 I'm Rakibul Islam 
--Front-End Software Developer || JavaScript - React.js || Tech Enthusiast
--Student at Computer Science & Engineering
-- 🌱 I’m currently learning - Front end development
-- 🔭 I’m currently working on - Javascript (React.js, Next.js), TypeScript, Node.js
+- Software Developer || JavaScript - React.js || Tech Enthusiast
+- Student in Computer Science & Engineering
+
+Interested in web development with the desire to work with the emerging information technology industry. I love to work with Javascript programming language Of course, I don't want to work with just one programming language. But now I want to establish myself as a MERN stack software developer. 😁
+
+- 🌱 I’m currently working on - Front end development (React.js, Next.js)
+- 🔭 Technologies - Javascript, TypeScript, Node.js, MongoDB, SQL, Git
 - 🌍 From Dhaka, Bangladesh
 - 😄 Pronouns my name: Rākibula isalāma 
 
